@@ -1,4 +1,4 @@
-TinkerCell is a free and open-source project (BSD license)
+TinkerCell is a free and open-source project (BSD 3-clause license)
 www.tinkercell.com
 
 ---------------------------
@@ -14,7 +14,7 @@ Frank Bergmann: worked on the previous iteration of TinkerCell called Athena
 Credits
 ---------------------------
 
-- TinkerCell is built using Qt Toolkit 4.5.0 (LGPL) 
+- TinkerCell is built using Qt Toolkit 4.5.0 (LGPL)
 - muParser is used to parse text with mathematical formulas
 - Qwt and Qwtplot3D are used for graphs
 - gnuplot is also used as a secondary graphing tool
